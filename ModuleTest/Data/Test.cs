@@ -8,6 +8,7 @@ namespace ModuleTest.Data
         {
             Console.WriteLine("Hello");
             Communication.Hello2();
+            ExcelHandling.GetWorkbook("hello", ".xlsx");
         }
     }
 }
