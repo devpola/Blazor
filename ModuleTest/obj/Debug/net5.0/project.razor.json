@@ -12,35 +12,35 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -2065843909,
+        "HashCode": -1057953320,
         "Kind": "Components.Component",
-        "Name": "ModuleTest.Pages.Index",
+        "Name": "ModuleTest.Pages.Counter",
         "AssemblyName": "ModuleTest",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ModuleTest.Pages.Index"
+          "Common.TypeName": "ModuleTest.Pages.Counter"
         }
       },
       {
-        "HashCode": 1920115340,
+        "HashCode": 1256373955,
         "Kind": "Components.Component",
-        "Name": "ModuleTest.Pages.Index",
+        "Name": "ModuleTest.Pages.Counter",
         "AssemblyName": "ModuleTest",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "ModuleTest.Pages.Index"
+            "TagName": "ModuleTest.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ModuleTest.Pages.Index",
+          "Common.TypeName": "ModuleTest.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -78,35 +78,121 @@
         }
       },
       {
-        "HashCode": -1057953320,
+        "HashCode": -2065843909,
         "Kind": "Components.Component",
-        "Name": "ModuleTest.Pages.Counter",
+        "Name": "ModuleTest.Pages.Index",
         "AssemblyName": "ModuleTest",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ModuleTest.Pages.Counter"
+          "Common.TypeName": "ModuleTest.Pages.Index"
         }
       },
       {
-        "HashCode": 1256373955,
+        "HashCode": 1920115340,
         "Kind": "Components.Component",
-        "Name": "ModuleTest.Pages.Counter",
+        "Name": "ModuleTest.Pages.Index",
         "AssemblyName": "ModuleTest",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "ModuleTest.Pages.Counter"
+            "TagName": "ModuleTest.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ModuleTest.Pages.Counter",
+          "Common.TypeName": "ModuleTest.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -761457244,
+        "Kind": "Components.Component",
+        "Name": "ModuleTest.App",
+        "AssemblyName": "ModuleTest",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ModuleTest.App"
+        }
+      },
+      {
+        "HashCode": -35606011,
+        "Kind": "Components.Component",
+        "Name": "ModuleTest.App",
+        "AssemblyName": "ModuleTest",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ModuleTest.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ModuleTest.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1906106047,
+        "Kind": "Components.Component",
+        "Name": "ModuleTest.Shared.SurveyPrompt",
+        "AssemblyName": "ModuleTest",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ModuleTest.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": 1740198313,
+        "Kind": "Components.Component",
+        "Name": "ModuleTest.Shared.SurveyPrompt",
+        "AssemblyName": "ModuleTest",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ModuleTest.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ModuleTest.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -207,59 +293,6 @@
         }
       },
       {
-        "HashCode": 1906106047,
-        "Kind": "Components.Component",
-        "Name": "ModuleTest.Shared.SurveyPrompt",
-        "AssemblyName": "ModuleTest",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ModuleTest.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": 1740198313,
-        "Kind": "Components.Component",
-        "Name": "ModuleTest.Shared.SurveyPrompt",
-        "AssemblyName": "ModuleTest",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ModuleTest.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ModuleTest.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -582193354,
         "Kind": "Components.Component",
         "Name": "ModuleTest.Shared.NavMenu",
@@ -289,39 +322,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "ModuleTest.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -761457244,
-        "Kind": "Components.Component",
-        "Name": "ModuleTest.App",
-        "AssemblyName": "ModuleTest",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ModuleTest.App"
-        }
-      },
-      {
-        "HashCode": -35606011,
-        "Kind": "Components.Component",
-        "Name": "ModuleTest.App",
-        "AssemblyName": "ModuleTest",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ModuleTest.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ModuleTest.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
